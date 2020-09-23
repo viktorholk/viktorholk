@@ -1,5 +1,5 @@
 <h2> Hi, I'm Viktor 👋</h2>
-<img align='right' src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif" width="230">
+<img align='right' src="https://media1.tenor.com/images/2fc92531277e708c26fd2f709b42a3b5/tenor.gif?itemid=13247932" width="300">
 
 My name is Viktor and I come from Denmark.
 I am 18 years old and I am currently studying ``Data And Communication``.
