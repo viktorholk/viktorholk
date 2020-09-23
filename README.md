@@ -6,3 +6,5 @@ Projects that I work on deals with the languages primarily Python, Javascript, P
 I like working working with the Django framework and React Native.
 
 My website [tactoctical](http://tactoctical.com).
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=viktorholk)](https://github.com/anuraghazra/github-readme-stats)
