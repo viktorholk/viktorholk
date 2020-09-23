@@ -13,6 +13,5 @@ I like working with the Django framework and React Native.
 [![GitHub viktorholk](https://img.shields.io/github/followers/viktorholk?label=follow&style=social)](https://github.com/viktorholk)
 
 **Check out my website! [tactoctical.com](http://tactoctical.com)**
-<h2>Featured Repositories </h2>
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=viktorholk&repo=Script-Interactor)](https://github.com/viktorholk/Script-Interactor) [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=viktorholk&repo=Private-Cloud-Service)](https://github.com/viktorholk/Private-Cloud-Service)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktorholk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
