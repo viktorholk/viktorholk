@@ -7,4 +7,4 @@ I like working working with the Django framework and React Native.
 
 My website [tactoctical](http://tactoctical.com).
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=viktorholk&repo=Script-Interactor)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=viktorholk&show_icons=true)
