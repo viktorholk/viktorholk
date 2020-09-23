@@ -15,4 +15,4 @@ I like working with the Django framework and React Native.
 **Check out my website! [tactoctical.com](http://tactoctical.com)**
 <h2>Featured Repositories </h2>
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=viktorholk&repo=Script-Interactor)](https://github.com/thepracticaldev/dev.to)
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=viktorholk&repo=Script-Interactor)](https://github.com/thepracticaldev/dev.to) [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=viktorholk&repo=Private-Cloud-Service)](https://github.com/thepracticaldev/dev.to)
