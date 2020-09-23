@@ -1,8 +1,8 @@
 ### Hi there 👋
-My name is Viktor and i come from Denmark.
-I am 18 years old and is currently studying `Data And Communication`.
-I get many different ideas so i work on various projects.
-Projects that deals with the languages Python, Javascript, PHP, SQL, Java and C#.<br />
+My name is Viktor and I come from Denmark.
+I am 18 years old and I am currently studying `Data And Communication`.
+I get many different ideas so I work on various projects.
+Projects that I work on deals with the languages primarily Python, Javascript, PHP, SQL, Java and C#.<br />
 I like working working with the Django framework and React Native.
 
 My website [tactoctical](http://tactoctical.com).
