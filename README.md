@@ -3,7 +3,7 @@
 
 
 My name is Viktor and I come from Denmark.<br />
-I am 18 years old and I am currently studying Data And Communication.<br />
+I am 18 years old and I am currently studying ``Data And Communication``.<br />
 I get many ideas so I work on various projects.<br />
 Projects that I work on deals with the languages primarily Python, JavaScript, PHP, SQL, Java and C#.<br />
 I like working with the Django framework and React Native.
