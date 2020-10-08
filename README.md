@@ -5,8 +5,8 @@
 My name is Viktor and I come from Denmark.<br />
 I am 18 years old and I am currently studying <br />``Data And Communication``.<br />
 I get many ideas so I work on various projects.<br />
-Projects that I work on deals with the languages primarily Python, JavaScript, PHP, SQL, Java and C#.<br />
-I like working with the Django framework and React Native.
+Projects that I work on deals with the languages primarily Python, C#, C++, Java, JavaScript, PHP and SQL<br />
+I like working with apps and game development.
 
 [![Twitter: viktorholk](https://img.shields.io/twitter/follow/viktorholk?style=social)](https://twitter.com/viktorholk)
 [![Linkedin: viktorholk](https://img.shields.io/badge/-viktorholk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viktorholk/)](https://www.linkedin.com/in/viktorholk/)
