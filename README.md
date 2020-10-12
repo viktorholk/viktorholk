@@ -15,3 +15,6 @@ I like working with apps and game development.
 **Check out my website! [tactoctical.com](http://tactoctical.com)**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktorholk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
