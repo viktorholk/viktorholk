@@ -5,7 +5,7 @@
 My name is **Viktor** and I come from Denmark.<br />
 I am 18 years old and I am currently studying <br />Data And Communication.<br />
 I get many ideas so I work on various projects.<br />
-Projects that I work on deals with the languages primarily <br>``Python, C#, C++, Java, JavaScript, PHP and SQL``<br />
+Projects that I work on deals with the languages primarily <br>``Python, C#, Java, JavaScript and SQL``<br />
 I like working with apps and game development.
 
 [![Twitter: viktorholk](https://img.shields.io/twitter/follow/viktorholk?style=social)](https://twitter.com/viktorholk)
