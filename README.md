@@ -9,7 +9,6 @@ Projects that I work on deals with the languages primarily <br>``Python, C#, Jav
 I like working with apps and game development.
 
 [![Twitter: viktorholk](https://img.shields.io/twitter/follow/viktorholk?style=social)](https://twitter.com/viktorholk)
-[![Linkedin: viktorholk](https://img.shields.io/badge/-viktorholk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viktorholk/)](https://www.linkedin.com/in/viktorholk/)
 [![GitHub viktorholk](https://img.shields.io/github/followers/viktorholk?label=follow&style=social)](https://github.com/viktorholk)
 
 **Check out my website! [tactoctical.com](http://tactoctical.com)**
