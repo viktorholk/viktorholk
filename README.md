@@ -11,7 +11,6 @@ I like working with apps and game development.
 [![Twitter: viktorholk](https://img.shields.io/twitter/follow/viktorholk?style=social)](https://twitter.com/viktorholk)
 [![GitHub viktorholk](https://img.shields.io/github/followers/viktorholk?label=follow&style=social)](https://github.com/viktorholk)
 
-**Check out my website! [tactoctical.com](http://tactoctical.com)**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktorholk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
