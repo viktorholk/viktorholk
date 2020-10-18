@@ -1,3 +1,6 @@
+![header](https://i.imgur.com/VkT2rQc.png)
+
+
 <h2> Hi, I'm Viktor 👋</h2>
   <img align='right' src="https://33.media.tumblr.com/f36d34d8012806dfc1a7cc23c050f524/tumblr_nrb1qjouY01s2wio8o4_500.gif" width="400">
 
@@ -13,6 +16,3 @@ I like working with apps and game development.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktorholk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
