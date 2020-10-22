@@ -1,4 +1,4 @@
-![header](https://i.imgur.com/VkT2rQc.png)
+
 
 
 <h2> Hi, I'm Viktor 👋</h2>
