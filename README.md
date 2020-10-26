@@ -10,6 +10,7 @@ I am 18 years old and I am currently studying <br />Data And Communication.<br /
 I get many ideas so I work on various projects.<br />
 Projects that I work on deals with the languages primarily <br>``Python, C#, Java, JavaScript and SQL``<br />
 I like working with apps and game development.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 [![Twitter: viktorholk](https://img.shields.io/twitter/follow/viktorholk?style=social)](https://twitter.com/viktorholk)
 [![GitHub viktorholk](https://img.shields.io/github/followers/viktorholk?label=follow&style=social)](https://github.com/viktorholk)
