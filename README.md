@@ -12,7 +12,4 @@ Projects that I work on deals with the languages primarily <br>``Python, Ruby, C
 I like working with apps and game development.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-[![GitHub viktorholk](https://img.shields.io/github/followers/viktorholk?label=follow&style=social)](https://github.com/viktorholk)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktorholk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
