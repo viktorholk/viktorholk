@@ -6,7 +6,7 @@
 
 
 My name is **Viktor** and I come from Denmark.<br />
-I am 19 years old and I am currently studying <br />data and communication.<br />
+I am 20 years old and I am currently studying <br />data and communication.<br />
 I get many ideas so I work on various projects.<br />
 Projects that I work on deals with the languages primarily <br>``Python, Ruby, C#, Java, JavaScript``<br />
 I like working with apps and game development.
