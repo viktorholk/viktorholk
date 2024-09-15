@@ -5,14 +5,14 @@
   
   <table>
     <tbody>
-      <td align="center">
+      <td>
         <!--<img width="256" height="256" src="https://user-images.githubusercontent.com/45604642/208090126-a71d3191-f5db-4e27-841c-db9e5bcad748.gif"><br>-->
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF313F&repeat=false&width=435&lines=Hi%2C+I'm+Viktor+" alt="Typing SVG" />
         <br/>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=12&pause=1000&color=FF313F&width=435&lines=$+git+gud" alt="Typing SVG">
+    <pre style="color: #C7C7C7;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=12&pause=1000&color=FF313F&lines=$+git+gud" alt="Typing SVG">
+    </pre>
         <br>
-        <!-- Decorative Line -->
-        <img width="500" height="0"><br>
       </td>
     </tbody>
   </table>
