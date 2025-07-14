@@ -1,12 +1,8 @@
 <div align="center">
-  <!-- Profile Image with Animation -->
-
-<img width="250" src="https://github.com/user-attachments/assets/ed4dd021-c351-45ab-b12e-65f34c611ac1"/>
   
   <table>
     <tbody>
       <td>
-        <!--<img width="256" height="256" src="https://user-images.githubusercontent.com/45604642/208090126-a71d3191-f5db-4e27-841c-db9e5bcad748.gif"><br>-->
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF313F&repeat=false&width=435&lines=Hi%2C+I'm+Viktor+" alt="Typing SVG" />
         <br/>
     <pre style="color: #C7C7C7;">
